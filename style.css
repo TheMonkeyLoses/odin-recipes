@@ -1,5 +1,7 @@
 div {
     display: inline-block;
+    background-color: lavender;
+    padding: 10px;
 }
 
 img {
