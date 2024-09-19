@@ -10,3 +10,14 @@ img {
 }
 
 body {background-color: lightgray;}
+
+a {
+    background-color: darkgray;
+    padding: 10px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+   
+img, a {
+    border: 2px solid black;
+}
