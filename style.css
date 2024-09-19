@@ -26,4 +26,4 @@ img, a {
     border: 2px solid black;
 }
 
-a: hover, a:visited {color: black;}
+a:hover, a:visited {color: black;}
